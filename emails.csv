@@ -1,0 +1,11 @@
+Date;Timestamp;Sender;Recipient;Subject;Body
+2024-11-01 08:00:00;2024-11-01 08:00:00;john@example.com;mary@example.com;Meeting Update;Hey Mary just wanted to update you on the meeting schedule. Let me know if you're available.
+2024-11-01 09:30:00;2024-11-01 09:30:00;mary@example.com;john@example.com;Re: Meeting Update;Thanks for the update John! I'll be there at 10 AM.
+2024-11-02 11:00:00;2024-11-02 11:00:00;alice@example.com;john@example.com;Project Proposal;John I've attached the proposal for the new project. Please review and let me know your thoughts.
+2024-11-03 14:00:00;2024-11-03 14:00:00;john@example.com;alice@example.com;Re: Project Proposal;Thanks Alice! I'll look over it and get back to you.
+2024-11-04 16:30:00;2024-11-04 16:30:00;jane@example.com;john@example.com;Reminder: Report Due;Just a reminder to submit your report by the end of today.
+2024-11-05 10:15:00;2024-11-05 10:15:00;john@example.com;jane@example.com;Re: Reminder: Report Due;Thanks for the reminder Jane. I’ll submit it in an hour.
+2024-11-06 08:45:00;2024-11-06 08:45:00;alice@example.com;mary@example.com;Team Meeting;Hi Mary can we schedule a meeting for tomorrow at 2 PM?
+2024-11-06 12:00:00;2024-11-06 12:00:00;mary@example.com;alice@example.com;Re: Team Meeting;That works for me. See you tomorrow!
+2024-11-07 13:30:00;2024-11-07 13:30:00;john@example.com;jane@example.com;Weekly Update;Here's the update for this week. Let me know if you have any questions.
+2024-11-08 15:00:00;2024-11-08 15:00:00;jane@example.com;john@example.com;Re: Weekly Update;Got it thanks! I'll follow up on the points you mentioned.
